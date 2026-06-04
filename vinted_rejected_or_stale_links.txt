@@ -1,0 +1,5 @@
+https://www.vinted.nl/items/8185287240-adidas-spezial-44-23
+https://www.vinted.nl/items/8206894475-the-north-face
+
+# Gebruik deze lijst als blacklist voor links die al kapot, verkocht,
+# verwijderd of anders onbetrouwbaar bleken tijdens tests.

@@ -1,0 +1,30 @@
+{
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "useSsl": true,
+    "from": "jouw-mailadres@gmail.com",
+    "username": "jouw-mailadres@gmail.com",
+    "password": "HIER-JE-APP-WACHTWOORD"
+  },
+  "mails": [
+    {
+      "enabled": true,
+      "to": "ontvanger1@example.com",
+      "subject": "Vinted sneaker deals voor Jaden",
+      "bodyFile": "vinted_sneaker_deals_jaden.html"
+    },
+    {
+      "enabled": true,
+      "to": "ontvanger2@example.com",
+      "subject": "Vinted sneaker deals voor Jelle",
+      "bodyFile": "vinted_sneaker_deals_jelle.html"
+    },
+    {
+      "enabled": true,
+      "to": "ontvanger3@example.com",
+      "subject": "Top 6 Vinted sneaker deals",
+      "bodyFile": "vinted_sneaker_deals_derde_mail.html"
+    }
+  ]
+}

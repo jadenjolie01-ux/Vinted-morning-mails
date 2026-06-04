@@ -1,0 +1,3 @@
+Ik heb de run afgerond en de mail echt verzonden naar `jadenjolie01@gmail.com`.
+
+Resultaat: er zijn geen deals doorgestuurd, omdat geen enkele exacte itempagina de harde check volledig haalde. De kandidaten vielen af door `Verkocht`, `Verwijderd`, `404`, geen koop-/biedmogelijkheid, ontbrekende betrouwbare itemdetails, of doordat ze op de lokale blacklist stonden. Gmail bevestigde verzending met bericht-id `19e8293bb9acb866`.

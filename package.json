@@ -1,0 +1,13 @@
+{
+  "name": "vinted-morning-mails-cloud",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "send:vinted": "node scripts/vinted_morning_mailer.mjs"
+  },
+  "dependencies": {
+    "nodemailer": "^6.10.1",
+    "playwright": "^1.53.0"
+  }
+}
